@@ -1,0 +1,42 @@
+  {
+  "project_info": {
+    "project_number": "698486574068",
+    "firebase_url": "https://fir-intro-52777.firebaseio.com",
+    "project_id": "fir-intro-52777",
+    "storage_bucket": "fir-intro-52777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698486574068:android:9c1d26e2e9986bc5",
+        "android_client_info": {
+          "package_name": "com.example.asheransari.firebasestarting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698486574068-1t56rs1itjvtiibsm2gidduh7dtugk3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwblYyBPyDndjzDmgUjbxW4_aenMULrtA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

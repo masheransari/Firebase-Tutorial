@@ -7,15 +7,25 @@
     android:orientation="vertical"
     tools:context="com.example.asheransari.firebasestarting.MainActivity">
 
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Hello World!" />-->
     <EditText
-        android:id="@+id/valueFireld"
+        android:id="@+id/value"
+        android:layout_margin="10dp"
         android:layout_width="match_parent"
-        android:layout_height="30dp" />
-
+        android:layout_height="100dp"
+        android:hint="Value"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:background="#e1e2df"
+        android:gravity="center|left"
+        />
     <Button
-        android:id="@+id/addBtn"
+        android:layout_margin="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add Value To Firebase" />
-
+        android:text="Click Here..."
+        android:id="@+id/btn"/>
 </LinearLayout>
